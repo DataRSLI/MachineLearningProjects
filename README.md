@@ -35,7 +35,7 @@
         spend the most time trying to improve. 
         
        ML System Component | Component Accuracy
-       -------------------   ------------------
+       ------------------- | ------------------
         Overall System     |    72%
         Text Detection     |    89%
         Character Segmentation| 90%
