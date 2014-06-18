@@ -26,6 +26,7 @@
 * Determining the error due to each component in a ML System
 * Deciding where in ML System Pipeline to spend your effort given a resource constrained environment 
 * Example:What Part of the pipeline should you spend the most time trying to improve?        
+
 ML System Component | Component Accuracy
 ------------------- | ------------------
  Overall System     |    72%
