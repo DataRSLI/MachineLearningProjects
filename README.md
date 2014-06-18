@@ -1,4 +1,4 @@
-##Machine Learning Projects (Stanford Machine Learning by Andrew Ng)
+##Machine Learning Projects(Stanford Machine Learning by Andrew Ng)
 
  Note: The project templates were created by Andrew Ng and team in MATLAB Code
  with a "YOUR CODE HERE" section in which you are instructed to implement the ML 
@@ -31,4 +31,12 @@
 * Deciding where in ML System Pipeline to spend your effort 
   given a resource constrained environment 
 
-
+      * Example:What Part of the pipeline should you 
+        spend the most time trying to improve. 
+        
+       ML System Component | Component Accuracy
+       -------------------   ------------------
+        Overall System     |    72%
+        Text Detection     |    89%
+        Character Segmentation| 90%
+        Character recognition|  100%
