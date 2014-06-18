@@ -9,21 +9,26 @@
  providing rational models for determining how to address real world machine learning 
  problems in practical situations. The models were organized under three categories: 
 
- Advice for Applying Machine Learning Algorithms:
- -Evaluating Hypothesis
- -Model Selection and Train/Validation/Test Sets
- -Diagnosing Bias vs. Variance
- -Regularization and Bias/ Variance
- -Learning Curves
+  Advice for Applying Machine Learning Algorithms:
+ 
+Evaluating Hypothesis
+Model Selection and Train/Validation/Test Sets
+Diagnosing Bias vs. Variance
+Regularization and Bias/ Variance
+Learning Curves
+
  Machine Learning System Design:
- -Prioritizing What to Work on Next
- -Error Analysis
- -Error Metrics for Skewed Classes
- -Trading Off Precision and Recall
- -Data For Machine Learning
+ 
+Prioritizing What to Work on Next
+Error Analysis
+Error Metrics for Skewed Classes
+Trading Off Precision and Recall
+Data For Machine Learning
+  
  Ceiling Analysis: What part of the Pipeline to Work on Next
- -Determining the error due to each component in a ML System
- -Deciding where in ML System Pipeline to spend your effort 
-  given a resource constrained environment 
+ 
+Determining the error due to each component in a ML System
+Deciding where in ML System Pipeline to spend your effort 
+given a resource constrained environment 
 
 
