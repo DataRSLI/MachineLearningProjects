@@ -1,13 +1,9 @@
-##Machine Learning Projects(Stanford Machine Learning by Andrew Ng)
-
- Note: The project templates were created by Andrew Ng and team in MATLAB Code
- with a "YOUR CODE HERE" section in which you are instructed to implement the ML 
- Algorithm that is related to that weeks lecture  (for more detail click on the 
- exercise instruction document)
-
- The projects focused on learning to implement Machine Learning Algorithms while
- providing rational models for determining how to address real world machine learning 
- problems in practical situations. The models were organized under three categories: 
+##Machine Learning Projects(Stanford Machine Learning by ProfessorAndrew Ng)
+ 
+ The projects listed in this repository focused on learning to implement 
+ Machine Learning Algorithms in a rational and efficient manner. Professor Ng 
+ offered advice through three general approaches for applying the tools  
+ learned in the course in real world situations: 
 
 ###Advice for Applying Machine Learning Algorithms:###
  
@@ -32,7 +28,7 @@
   given a resource constrained environment 
 
 * Example:What Part of the pipeline should you 
-  spend the most time trying to improve. 
+  spend the most time trying to improve? 
         
 ML System Component | Component Accuracy
 ------------------- | ------------------
@@ -40,3 +36,7 @@ ML System Component | Component Accuracy
  Text Detection     |    89%
  Character Segmentation| 90%
   Character recognition|  100%
+
+ **Important Note:** The project templates were created by Andrew Ng and team in MATLAB Code
+ with a "YOUR CODE HERE" section which is where you will find my implementation.
+ (for more detail click on the exercise instruction document usuaully noted: ex1..etc)
